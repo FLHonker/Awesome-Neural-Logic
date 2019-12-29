@@ -18,7 +18,7 @@
 10. DL2: Training and Querying Neural Networks with Logic. Fischer, Marc et al. ICML 2019 [[code]][9]
 11. Neural Logic Rule Layers. Reimann, Jan Niclas & Schwung, Andreas. ArXiv:1907.00878
 12. Neural Logic Networks. Shi, Shaoyun et al. ArXiv:1910.08629 [[project]][10]
-13. Inductive Logic Programming via Differentiable Deep Neural Logic Networks. Payani, Ali & Fekri, Faramarz. ICLR 2020
+13. Inductive Logic Programming via Differentiable Deep Neural Logic Networks. Payani, Ali & Fekri, Faramarz. ICLR 2020 [[code]][11]
 14. Transparent Classification with Multilayer Logical Perceptrons and Random Binarization. Wei Zhang et al. AAAI 2020
 
 
@@ -45,3 +45,4 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [8]:https://github.com/ZhengyaoJiang/NLRL
 [9]:https://github.com/eth-sri/dl2
 [10]:https://www.groundai.com/project/neural-logic-networks
+[11]:https://github.com/apayani/ILP
