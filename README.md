@@ -6,25 +6,40 @@
 
 ## Neural Logic
 
-1. Markov logic networks. Richardson, Matthew & Domingos, Pedro. Machine Learning, 2006.
-2. Harnessing deep neural networks with logic rules. Hu, Zhiting. ACL 2016
-3. Neural Arithmetic Logic Units. Trask, Andrew et al. NIPS 2018 [[code1]][1] [[code2]][2] [[code3]][3]
-4. A Semantic Loss Function for Deep Learning with Symbolic Knowledge. Xu, Jingyi et al. ICML 2018 [[code]][4]
-5. Learn to Explain Efficiently via Neural Logic Inductive Learning. Yang, Yuan & Song, Le. ArXiv:1910.02481
-6. Neural Markov Logic Networks. Marra, Giuseppe & Kuželka, Ondřej. NIPS 2019
-7. Embedding Symbolic Knowledge into Deep Networks. Xie, Yaqi et al. NIPS 2019 [[code]][5]
-8. Neural Logic Machines. Dong, Honghua et al. ICLR 2019 [[code]][6] [[project]][7]
-9.  Neural Logic Reinforcement Learning. Jiang, Zhengyao & Luo, Shan. ICML 2019 [[code]][8]
-10. DL2: Training and Querying Neural Networks with Logic. Fischer, Marc et al. ICML 2019 [[code]][9]
-11. Neural Logic Rule Layers. Reimann, Jan Niclas & Schwung, Andreas. ArXiv:1907.00878
-12. Neural Logic Networks. Shi, Shaoyun et al. ArXiv:1910.08629 [[project]][10]
-13. Inductive Logic Programming via Differentiable Deep Neural Logic Networks. Payani, Ali & Fekri, Faramarz. ICLR 2020 [[code]][11]
-14. Transparent Classification with Multilayer Logical Perceptrons and Random Binarization. Wei Zhang et al. AAAI 2020
+1. Neural Networks and Logical Reasoning Systems: a Translation Table. IJNS 2001
+2. Logic Mining Using Neural Networks. Sathasivam & Abdullah. ICIS 2005
+3. Markov logic networks. Richardson, Matthew & Domingos, Pedro. Machine Learning, 2006.
+4. Harnessing deep neural networks with logic rules. Hu, Zhiting. ACL 2016
+5. Logic tensor networks: Deep learning and logical reasoning from data and knowledge. Serafini, Luciano & Garcez, Artur D.Avila. ArXiv:1606.04422
+6. Learning explanatory rules from noisy data. Evans, Richard & Grefenstette, Edward. IJAI 2017
+7. Neural Arithmetic Logic Units. Trask, Andrew et al. NIPS 2018 [[code1]][1] [[code2]][2] [[code3]][3]
+8. A Semantic Loss Function for Deep Learning with Symbolic Knowledge. Xu, Jingyi et al. ICML 2018 [[code]][4]
+9. Learn to Explain Efficiently via Neural Logic Inductive Learning. Yang, Yuan & Song, Le. ArXiv:1910.02481
+10. Neural Markov Logic Networks. Marra, Giuseppe & Kuželka, Ondřej. NIPS 2019
+11. Neural Logic Machines. Dong, Honghua et al. ICLR 2019 [[code]][6] [[project]][7]
+12. Neural Logic Reinforcement Learning. Jiang, Zhengyao & Luo, Shan. ICML 2019 [[code]][8]
+13. Neural Logic Rule Layers. Reimann, Jan Niclas & Schwung, Andreas. ArXiv:1907.00878
+14. Neural Logic Networks. Shi, Shaoyun et al. ArXiv:1910.08629 [[project]][10]
+15. Logic-inspired Deep Neural Networks. Le, Minh. ArXiv:1911.08635
+16. A Novel Neural Network Structure Constructed according to Logical Relations. Wang, Gang. ArXiv:1903.02683
+17. Augmenting Neural Networks with First-order Logic. Li, Tao & Srikumar, Vivek. ArXiv:1906.06298
+18. A Logic-Driven Framework for Consistency of Neural Models. Li, Tao rt al. ArXiv:1909.00126
+19. Semantic Interpretation of Deep Neural Networks Based on Continuous Logic. Dombi, József et al. ArXiv:1910.02486
+20. Inductive Logic Programming via Differentiable Deep Neural Logic Networks. Payani, Ali & Fekri, Faramarz. ICLR 2020 [[code]][11]
+21. Transparent Classification with Multilayer Logical Perceptrons and Random Binarization. Wei Zhang et al. AAAI 2020
 
 
 ## Graph Neural Logic
 
+1. Embedding Symbolic Knowledge into Deep Networks. Xie, Yaqi et al. NIPS 2019 [[code]][5]
+2. Probabilistic Logic Neural Networks for Reasoning. Qu, Meng & Tang, Jian. ArXiv:1906.08495
+3. 
 
+
+## Logic Programming
+1. Deepproblog: Neural probabilistic logic programming. Manhaeve, Robin et al. NIPS 2018
+2. DL2: Training and Querying Neural Networks with Logic. Fischer, Marc et al. ICML 2019 [[code]][9]
+3. 
 
 
 ---
