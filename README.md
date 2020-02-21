@@ -1,5 +1,7 @@
 # Awesome-Neural-Logic
 
+Note: This repository is expected to be updated in large quantities after May 2020.
+
 ## Survey
 
 1. Neural-Symbolic Learning and Reasoning: A Survey and Interpretation. Besold et al. ArXiv:1711.03902
