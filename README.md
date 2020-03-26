@@ -44,12 +44,12 @@ Note: This repository is expected to be updated in large quantities after May 20
 
 
 ## Causal
-1. <book> The Book of Why. Judea Pearl, 2018. [[onedrive]][21]
-2. <book> The Book of Why(中文版). Judea Pearl & Dana Mackenzie, 江⽣ & 于华 译, 2018. [[onedrive]][22]
-3. <book> Causality: Models, Reasoning, and Inference(2nd Edition). Judea Pearl, 2009. [[onedrive]][23]
-4. <book> Causal inference in statistics: An overview. Judea Pearl, on Statistics Surveys, 2009. [[onedrive]][24]
-5. <book> 因果推断简介. 丁鹏(北京大学). [[onedrive]][25]
-6. <book> Causal Inference - What If. Miguel A. Hernán & James M. Robins, 2019. [[onedrive]][26]
+1. (book) The Book of Why. Judea Pearl, 2018. [[onedrive]][21]
+2. (book) The Book of Why(中文版). Judea Pearl & Dana Mackenzie, 江⽣ & 于华 译, 2018. [[onedrive]][22]
+3. (book) Causality: Models, Reasoning, and Inference(2nd Edition). Judea Pearl, 2009. [[onedrive]][23]
+4. (book) Causal inference in statistics: An overview. Judea Pearl, on Statistics Surveys, 2009. [[onedrive]][24]
+5. (book) 因果推断简介. 丁鹏(北京大学). [[onedrive]][25]
+6. (book) Causal Inference - What If. Miguel A. Hernán & James M. Robins, 2019. [[onedrive]][26]
 7. Introduction to Judea Pearl's Do-Calculus. Robert R. Tucci. arXiv:1305.5506
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
