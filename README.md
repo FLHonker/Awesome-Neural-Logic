@@ -35,18 +35,22 @@ Note: This repository is expected to be updated in large quantities after May 20
 
 1. Embedding Symbolic Knowledge into Deep Networks. Xie, Yaqi et al. NIPS 2019 [[code]][5]
 2. Probabilistic Logic Neural Networks for Reasoning. Qu, Meng & Tang, Jian. ArXiv:1906.08495
-3. 
 
 
 ## Logic Programming
 1. ProbLog: A Probabilistic Prolog and Its Applications to Link. De Raedt, Luc et al. IJCAI 2007 [[project]][13] [[code]][14]
 2. Deepproblog: Neural probabilistic logic programming. Manhaeve, Robin et al. NIPS 2018 [[code]][15]
 3. DL2: Training and Querying Neural Networks with Logic. Fischer, Marc et al. ICML 2019 [[code]][9]
-4. 
+
 
 ## Causal
-
-
+1. <book> The Book of Why. Judea Pearl, 2018. [[onedrive]][21]
+2. <book> The Book of Why(中文版). Judea Pearl & Dana Mackenzie, 江⽣ & 于华 译, 2018. [[onedrive]][22]
+3. <book> Causality: Models, Reasoning, and Inference(2nd Edition). Judea Pearl, 2009. [[onedrive]][23]
+4. Causal inference in statistics: An overview. Judea Pearl, on Statistics Surveys, 2009. [[onedrive]][24]
+5. 因果推断简介. 丁鹏(北京大学). [[onedrive]][25]
+6. Causal Inference - What If. Miguel A. Hernán & James M. Robins, 2019. [[onedrive]][26]
+7.Introduction to Judea Pearl's Do-Calculus. Robert R. Tucci. arXiv:1305.5506
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
 
@@ -75,3 +79,9 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [18]:https://github.com/logictensornetworks/tutorials
 [19]:https://github.com/ai-systems/DILP-Core
 [20]:https://github.com/utahnlp/layer_augmentation
+[21]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ET2Ge2D6KAJOlrvBoAjA-okBQqz0FNVaY_Mwnd2Yn0scHA?e=2ElBsM
+[22]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ER1d1Fq5xcpGjIpUU8edEvIBVzpDMuXUBG87Sr_YD7Oovw?e=2bDLR3
+[23]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EWW5sS4nXdZLteH9fCgdPbkBh2Wfcmt_ANeM-_IixOv3EQ?e=GV06gd
+[24]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ESYiU9Fb9qdAquBFL1eGPr8BQBTKEJ51JQ_fiiu2Rc9aKQ?e=ZbHJH7
+[25]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ERHBtAQEM2NAlL14zRpXkaQBYlbQAxjbsKRgx4C2rLF4ZA?e=hxU5yH
+[26]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EX5-ycA86M1Lkh9CgYNW7SIBveOjgNJi9mCiNp5wCl5fhg?e=Rnz67v
