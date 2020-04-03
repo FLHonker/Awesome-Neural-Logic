@@ -1,6 +1,5 @@
 # Awesome-Neural-Logic
 
-Note: This repository is expected to be updated in large quantities after May 2020.
 
 ## Survey
 
@@ -29,12 +28,16 @@ Note: This repository is expected to be updated in large quantities after May 20
 19. Semantic Interpretation of Deep Neural Networks Based on Continuous Logic. Dombi, József et al. ArXiv:1910.02486
 20. Inductive Logic Programming via Differentiable Deep Neural Logic Networks. Payani, Ali & Fekri, Faramarz. ICLR 2020 [[code]][11]
 21. Transparent Classification with Multilayer Logical Perceptrons and Random Binarization. Wei Zhang et al. AAAI 2020
-
+22. iNALU: Improved Neural Arithmetic Logic Unit. Schlör, Daniel et al. ArXiv:2003.07629
+23. The Logical Expressiveness of Graph Neural Networks. Finkbeiner, Bernd et al. ArXiv:2003.04218
+24. Making Logic Learnable With Neural Networks. Brudermueller et al. ArXiv:2002.03847
 
 ## Graph Neural Logic
 
 1. Embedding Symbolic Knowledge into Deep Networks. Xie, Yaqi et al. NIPS 2019 [[code]][5]
 2. Probabilistic Logic Neural Networks for Reasoning. Qu, Meng & Tang, Jian. ArXiv:1906.08495
+3. The Logical Expressiveness of Graph Neural Networks. ICLR 2020
+4. Efficient Probabilistic Logic Reasoning with Graph Neural Networks. Zhang, Yuyu et al. ArXiv:2001.11850v2
 
 
 ## Logic Programming
