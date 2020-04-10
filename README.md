@@ -53,14 +53,18 @@
 4. (book) Causal inference in statistics: An overview. Judea Pearl, on Statistics Surveys, 2009. [[onedrive]][24]
 5. (book) 因果推断简介. 丁鹏(北京大学). [[onedrive]][25]
 6. (book) Causal Inference - What If. Miguel A. Hernán & James M. Robins, 2019. [[onedrive]][26]
-7. Introduction to Judea Pearl's Do-Calculus. Robert R. Tucci. arXiv:1305.5506
+7. (book) Elements of Causal Inference: Foundations and Learning Algorithms. MIT, 2020. [[onedrive]][27]
+8. Introduction to Judea Pearl's Do-Calculus. Robert R. Tucci. arXiv:1305.5506
+
+
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
 
 Source: <https://github.com/FLHonker/Awesome-Neural-Logic>
 
-
 Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
+
+
 
 [1]:https://github.com/bharathgs/NALU
 [2]:https://github.com/shivamsaboo17/NeuralArithmeticLogicalUnit-NALU
@@ -88,3 +92,4 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [24]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ESYiU9Fb9qdAquBFL1eGPr8BQBTKEJ51JQ_fiiu2Rc9aKQ?e=ZbHJH7
 [25]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ERHBtAQEM2NAlL14zRpXkaQBYlbQAxjbsKRgx4C2rLF4ZA?e=hxU5yH
 [26]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EX5-ycA86M1Lkh9CgYNW7SIBveOjgNJi9mCiNp5wCl5fhg?e=Rnz67v
+[27]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ESilloi4DeBCiueEVL2s-NoBG9mqM_W0vzX30WERGepwKg?e=EalUmR
