@@ -22,7 +22,7 @@
 12. Neural Logic Reinforcement Learning. Jiang, Zhengyao & Luo, Shan. ICML 2019 [[code]][8]
 13. Neural Logic Rule Layers. Reimann, Jan Niclas & Schwung, Andreas. arXiv:1907.00878
 14. Neural Logic Networks. Shi, Shaoyun et al. arXiv:1910.08629 [[project]][10]
-15. Logic-inspired Deep Neural Networks. Le, Minh. ArXiv:1911.08635
+15. Logic-inspired Deep Neural Networks. Le, Minh. arXiv:1911.08635
 16. A Novel Neural Network Structure Constructed according to Logical Relations. Wang, Gang. arXiv:1903.02683
 17. Augmenting Neural Networks with First-order Logic. Li, Tao & Srikumar, Vivek. ACL 2019 [[code]][20]
 18. A Logic-Driven Framework for Consistency of Neural Models. Li, Tao rt al. arXiv:1909.00126 [[code]][12]
