@@ -3,7 +3,8 @@
 
 ## Survey
 
-1. Neural-Symbolic Learning and Reasoning: A Survey and Interpretation. Besold et al. ArXiv:1711.03902
+1. Neural-Symbolic Learning and Reasoning: A Survey and Interpretation. Besold et al. arXiv:1711.03902
+2. Symbolic Logic meets Machine Learning: A Brief Survey in Infinite Domains. Belle, Vaishak et al. arXiv:2006.08480
 
 ## Neural Logic
 
@@ -11,33 +12,34 @@
 2. Logic Mining Using Neural Networks. Sathasivam & Abdullah. ICIS 2005
 3. Markov logic networks. Richardson, Matthew & Domingos, Pedro. Machine Learning, 2006.
 4. Harnessing deep neural networks with logic rules. Hu, Zhiting. ACL 2016 [[code]][16]
-5. Logic tensor networks: Deep learning and logical reasoning from data and knowledge. Serafini, Luciano & Garcez, Artur D.Avila. ArXiv:1606.04422 [[pytorch]][17] [[tensorflow]][18]
-6. Learning explanatory rules from noisy data. Evans, Richard & Grefenstette, Edward. IJAI 2017 [[code]][19]
+5. Logic tensor networks: Deep learning and logical reasoning from data and knowledge. Serafini, Luciano & Garcez, Artur D.Avila. arXiv:1606.04422 [[pytorch]][17] [[tensorflow]][18]
+6. Learning explanatory rules from noisy data. Evans, Richard & Grefenstette, Edward. IJCAI 2017 [[code]][19]
 7. Neural Arithmetic Logic Units. Trask, Andrew et al. NIPS 2018 [[code1]][1] [[code2]][2] [[code3]][3]
 8. A Semantic Loss Function for Deep Learning with Symbolic Knowledge. Xu, Jingyi et al. ICML 2018 [[code]][4]
-9. Learn to Explain Efficiently via Neural Logic Inductive Learning. Yang, Yuan & Song, Le. ArXiv:1910.02481
+9. Learn to Explain Efficiently via Neural Logic Inductive Learning. Yang, Yuan & Song, Le. arXiv:1910.02481
 10. Neural Markov Logic Networks. Marra, Giuseppe & Kuželka, Ondřej. NIPS 2019
 11. Neural Logic Machines. Dong, Honghua et al. ICLR 2019 [[code]][6] [[project]][7]
 12. Neural Logic Reinforcement Learning. Jiang, Zhengyao & Luo, Shan. ICML 2019 [[code]][8]
-13. Neural Logic Rule Layers. Reimann, Jan Niclas & Schwung, Andreas. ArXiv:1907.00878
-14. Neural Logic Networks. Shi, Shaoyun et al. ArXiv:1910.08629 [[project]][10]
+13. Neural Logic Rule Layers. Reimann, Jan Niclas & Schwung, Andreas. arXiv:1907.00878
+14. Neural Logic Networks. Shi, Shaoyun et al. arXiv:1910.08629 [[project]][10]
 15. Logic-inspired Deep Neural Networks. Le, Minh. ArXiv:1911.08635
-16. A Novel Neural Network Structure Constructed according to Logical Relations. Wang, Gang. ArXiv:1903.02683
+16. A Novel Neural Network Structure Constructed according to Logical Relations. Wang, Gang. arXiv:1903.02683
 17. Augmenting Neural Networks with First-order Logic. Li, Tao & Srikumar, Vivek. ACL 2019 [[code]][20]
-18. A Logic-Driven Framework for Consistency of Neural Models. Li, Tao rt al. ArXiv:1909.00126 [[code]][12]
+18. A Logic-Driven Framework for Consistency of Neural Models. Li, Tao rt al. arXiv:1909.00126 [[code]][12]
 19. Semantic Interpretation of Deep Neural Networks Based on Continuous Logic. Dombi, József et al. ArXiv:1910.02486
 20. Inductive Logic Programming via Differentiable Deep Neural Logic Networks. Payani, Ali & Fekri, Faramarz. ICLR 2020 [[code]][11]
 21. Transparent Classification with Multilayer Logical Perceptrons and Random Binarization. Wei Zhang et al. AAAI 2020
-22. iNALU: Improved Neural Arithmetic Logic Unit. Schlör, Daniel et al. ArXiv:2003.07629
-23. The Logical Expressiveness of Graph Neural Networks. Finkbeiner, Bernd et al. ArXiv:2003.04218
-24. Making Logic Learnable With Neural Networks. Brudermueller et al. ArXiv:2002.03847
+22. iNALU: Improved Neural Arithmetic Logic Unit. Schlör, Daniel et al. arXiv:2003.07629
+23. The Logical Expressiveness of Graph Neural Networks. Finkbeiner, Bernd et al. arXiv:2003.04218
+24. Making Logic Learnable With Neural Networks. Brudermueller et al. arXiv:2002.03847
+25. Relational reasoning and generalization using non-symbolic neural networks. 
 
 ## Graph Neural Logic
 
 1. Embedding Symbolic Knowledge into Deep Networks. Xie, Yaqi et al. NIPS 2019 [[code]][5]
-2. Probabilistic Logic Neural Networks for Reasoning. Qu, Meng & Tang, Jian. ArXiv:1906.08495
+2. Probabilistic Logic Neural Networks for Reasoning. Qu, Meng & Tang, Jian. arXiv:1906.08495
 3. The Logical Expressiveness of Graph Neural Networks. ICLR 2020
-4. Efficient Probabilistic Logic Reasoning with Graph Neural Networks. Zhang, Yuyu et al. ArXiv:2001.11850v2
+4. Efficient Probabilistic Logic Reasoning with Graph Neural Networks. Zhang, Yuyu et al. arXiv:2001.11850v2
 
 
 ## Logic Programming
