@@ -33,6 +33,9 @@
 23. The Logical Expressiveness of Graph Neural Networks. Finkbeiner, Bernd et al. arXiv:2003.04218
 24. Making Logic Learnable With Neural Networks. Brudermueller et al. arXiv:2002.03847
 25. Relational reasoning and generalization using non-symbolic neural networks. 
+26. On sparse connectivity, adversarial robustness, and a novel model of the artificial neuron. arXiv:2006.09510
+27. Universally Quantized Neural Compression. arXiv:2006.09952
+28. Conversational Neuro-Symbolic Commonsense Reasoning. arXiv:2006.10022
 
 ## Graph Neural Logic
 
