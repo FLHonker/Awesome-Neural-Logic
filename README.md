@@ -71,9 +71,9 @@
 3. Two causal principles for improving visual dialog. Qi, Jiaxin et al. CVPR 2020
 4. Introduction to Judea Pearl's Do-Calculus. Robert R. Tucci. arXiv:1305.5506
 5. Causal induction from visual observations for goal directed tasks. Nair, Suraj et al. arXiv:1910.01751 [[code][29]]
-6. Unbiased scene graph generation from bi-ased training. Tang, Kaihua et al. CVPR 2020
+6. Unbiased scene graph generation from bi-ased training. Tang, Kaihua et al. CVPR 2020 [[code][30]]
 7. Discovering causal signals in images. Lopez-Paz et al. CVPR 2017
-8. CausalGAN: Learning causal implicit generative models with adversarial training. Kocaoglu, et al. ICLR 2018
+8. CausalGAN: Learning causal implicit generative models with adversarial training. Kocaoglu, et al. ICLR 2018 [[code][31]]
 9. SAM: Structural agnostic model, causal discovery and penalized adversarial learning. Kalainathan et al. arXiv:1803.04929
 10. Causal reasoning from meta-reinforcement learning. Dasgupta et al. arXiv:1901.08162
 11. A meta-transfer objective for learning to disentangle causal mechanisms. Bengio, Yoshua et al. arXiv:1901.10912
@@ -117,3 +117,5 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [27]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ESilloi4DeBCiueEVL2s-NoBG9mqM_W0vzX30WERGepwKg?e=EalUmR
 [28]:https://github.com/Wangt-CN/VC-R-CNN
 [29]:https://github.com/StanfordVL/causal_induction
+[30]:https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch
+[31]:https://github.com/mkocaoglu/CausalGAN
