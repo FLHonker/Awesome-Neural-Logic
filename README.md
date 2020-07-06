@@ -70,7 +70,7 @@
 2. Deconfounded image captioning: A causal retrospect. Yang, Xu et al. arXiv:2003.03923
 3. Two causal principles for improving visual dialog. Qi, Jiaxin et al. CVPR 2020
 4. Introduction to Judea Pearl's Do-Calculus. Robert R. Tucci. arXiv:1305.5506
-5. Causal induction from visual observations for goal directed tasks. Nair, Suraj et al. arXiv:1910.01751
+5. Causal induction from visual observations for goal directed tasks. Nair, Suraj et al. arXiv:1910.01751 [[code][29]]
 6. Unbiased scene graph generation from bi-ased training. Tang, Kaihua et al. CVPR 2020
 7. Discovering causal signals in images. Lopez-Paz et al. CVPR 2017
 8. CausalGAN: Learning causal implicit generative models with adversarial training. Kocaoglu, et al. ICLR 2018
@@ -116,3 +116,4 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [26]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EX5-ycA86M1Lkh9CgYNW7SIBveOjgNJi9mCiNp5wCl5fhg?e=Rnz67v
 [27]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ESilloi4DeBCiueEVL2s-NoBG9mqM_W0vzX30WERGepwKg?e=EalUmR
 [28]:https://github.com/Wangt-CN/VC-R-CNN
+[29]:https://github.com/StanfordVL/causal_induction
