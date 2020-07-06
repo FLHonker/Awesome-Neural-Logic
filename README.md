@@ -47,12 +47,14 @@
 
 
 ## Logic Programming
+
 1. ProbLog: A Probabilistic Prolog and Its Applications to Link. De Raedt, Luc et al. IJCAI 2007 [[project]][13] [[code]][14]
 2. Deepproblog: Neural probabilistic logic programming. Manhaeve, Robin et al. NIPS 2018 [[code]][15]
 3. DL2: Training and Querying Neural Networks with Logic. Fischer, Marc et al. ICML 2019 [[code]][9]
 
 
-## Causal
+## Causality Books
+
 1. (book) The Book of Why. Judea Pearl, 2018. [[onedrive]][21]
 2. (book) The Book of Why(中文版). Judea Pearl & Dana Mackenzie, 江⽣ & 于华 译, 2018. [[onedrive]][22]
 3. (book) Causality: Models, Reasoning, and Inference(2nd Edition). Judea Pearl, 2009. [[onedrive]][23]
@@ -60,8 +62,22 @@
 5. (book) 因果推断简介. 丁鹏(北京大学). [[onedrive]][25]
 6. (book) Causal Inference - What If. Miguel A. Hernán & James M. Robins, 2019. [[onedrive]][26]
 7. (book) Elements of Causal Inference: Foundations and Learning Algorithms. MIT, 2020. [[onedrive]][27]
-8. Introduction to Judea Pearl's Do-Calculus. Robert R. Tucci. arXiv:1305.5506
+8. Interpretation and identification of causal mediation. Judea Pearl, 2014.
 
+## Causality papers
+
+1. Visual Commonsense R-CNN. Wang, Tan et al. CVPR 2020 [[code][28]]
+2. Deconfounded image captioning: A causal retrospect. Yang, Xu et al. arXiv:2003.03923
+3. Two causal principles for improving visual dialog. Qi, Jiaxin et al. CVPR 2020
+4. Introduction to Judea Pearl's Do-Calculus. Robert R. Tucci. arXiv:1305.5506
+5. Causal induction from visual observations for goal directed tasks. Nair, Suraj et al. arXiv:1910.01751
+6. Unbiased scene graph generation from bi-ased training. Tang, Kaihua et al. CVPR 2020
+7. Discovering causal signals in images. Lopez-Paz et al. CVPR 2017
+8. CausalGAN: Learning causal implicit generative models with adversarial training. Kocaoglu, et al. ICLR 2018
+9. SAM: Structural agnostic model, causal discovery and penalized adversarial learning. Kalainathan et al. arXiv:1803.04929
+10. Causal reasoning from meta-reinforcement learning. Dasgupta et al. arXiv:1901.08162
+11. A meta-transfer objective for learning to disentangle causal mechanisms. Bengio, Yoshua et al. arXiv:1901.10912
+12. Visual causal feature learning. Chalupka et al. arXiv:1412.2309
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
@@ -99,3 +115,4 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [25]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ERHBtAQEM2NAlL14zRpXkaQBYlbQAxjbsKRgx4C2rLF4ZA?e=hxU5yH
 [26]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EX5-ycA86M1Lkh9CgYNW7SIBveOjgNJi9mCiNp5wCl5fhg?e=Rnz67v
 [27]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ESilloi4DeBCiueEVL2s-NoBG9mqM_W0vzX30WERGepwKg?e=EalUmR
+[28]:https://github.com/Wangt-CN/VC-R-CNN
