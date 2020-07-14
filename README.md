@@ -67,14 +67,14 @@
 
 ## Causality papers
 
-1. Visual Commonsense R-CNN. Wang, Tan et al. CVPR 2020 [[code][28]]
+1. Visual Commonsense R-CNN. Wang, Tan et al. CVPR 2020 [[code]][28]
 2. Deconfounded image captioning: A causal retrospect. Yang, Xu et al. arXiv:2003.03923
 3. Two causal principles for improving visual dialog. Qi, Jiaxin et al. CVPR 2020
 4. Introduction to Judea Pearl's Do-Calculus. Robert R. Tucci. arXiv:1305.5506
-5. Causal induction from visual observations for goal directed tasks. Nair, Suraj et al. arXiv:1910.01751 [[code][29]]
-6. Unbiased scene graph generation from bi-ased training. Tang, Kaihua et al. CVPR 2020 [[code][30]]
+5. Causal induction from visual observations for goal directed tasks. Nair, Suraj et al. arXiv:1910.01751 [[code]][29]
+6. Unbiased scene graph generation from bi-ased training. Tang, Kaihua et al. CVPR 2020 [[code]][30]
 7. Discovering causal signals in images. Lopez-Paz et al. CVPR 2017
-8. CausalGAN: Learning causal implicit generative models with adversarial training. Kocaoglu, et al. ICLR 2018 [[code][31]]
+8. CausalGAN: Learning causal implicit generative models with adversarial training. Kocaoglu, et al. ICLR 2018 [[code]][31]
 9. SAM: Structural agnostic model, causal discovery and penalized adversarial learning. Kalainathan et al. arXiv:1803.04929
 10. Causal reasoning from meta-reinforcement learning. Dasgupta et al. arXiv:1901.08162
 11. A meta-transfer objective for learning to disentangle causal mechanisms. Bengio, Yoshua et al. arXiv:1901.10912
@@ -82,7 +82,7 @@
 13. Fast Real-time Counterfactual Explanations. Zhao, Yunxia et al. ICML 2020
 14. Scientific Discovery by Generating Counterfactuals using Image Translation. Narayanaswamy et al. MICCAI 2020
 15. Structural Agnostic Modeling: Adversarial Learning of Causal Graphs. Kalainathan et al. arXiv:1803.04929
-16. Causal Discovery in Physical Systems from Videos. Li, Yunzhu et al. arXiv:2007.00631 [[project][32]]
+16. Causal Discovery in Physical Systems from Videos. Li, Yunzhu et al. arXiv:2007.00631 [[project]][32]
 17. Causality Learning: A New Perspective for Interpretable Machine Learning. Xu, Guandong et al. arXiv:2006.16789
 18. Causal Modeling for Fairness in Dynamical Systems. Creager, Elliot et al. ICML 2020
 19. Causal Effect Identifiability under Partial-Observability Lee, Sanghack & Bareinboim, Elias. ICML 2020
