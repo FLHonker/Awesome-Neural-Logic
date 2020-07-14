@@ -82,8 +82,14 @@
 13. Fast Real-time Counterfactual Explanations. Zhao, Yunxia et al. ICML 2020
 14. Scientific Discovery by Generating Counterfactuals using Image Translation. Narayanaswamy et al. MICCAI 2020
 15. Structural Agnostic Modeling: Adversarial Learning of Causal Graphs. Kalainathan et al. arXiv:1803.04929
-16. Causal Discovery in Physical Systems from Videos. Li, Yunzhu et al. arXiv:2007.00631 [[code][32]]
+16. Causal Discovery in Physical Systems from Videos. Li, Yunzhu et al. arXiv:2007.00631 [[project][32]]
 17. Causality Learning: A New Perspective for Interpretable Machine Learning. Xu, Guandong et al. arXiv:2006.16789
+18. Causal Modeling for Fairness in Dynamical Systems. Creager, Elliot et al. ICML 2020
+19. Causal Effect Identifiability under Partial-Observability Lee, Sanghack & Bareinboim, Elias. ICML 2020
+20. Distinguishing Cause from Effect Using Quantiles: Bivariate Quantile Causal Discovery. Tagasovska et al. ICML 2020
+21. Efficient Intervention Design for Causal Discovery with Latents. Addanki et al. ICML 2020
+22. Fast Real-time Counterfactual Explanations. Yunxia Zhao. ICML 2020
+
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
