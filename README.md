@@ -37,6 +37,7 @@
 27. Universally Quantized Neural Compression. arXiv:2006.09952
 28. Conversational Neuro-Symbolic Commonsense Reasoning. arXiv:2006.10022
 29. Logical Neural Networks. Riegel, Ryan et al. NeurIPS 2020
+30. Integrating Logical Rules Into Neural Multi-Hop Reasoning for Drug Repurposing. Liu, Yushan et al. ICML 2020
 
 ## Graph Neural Logic
 
@@ -78,6 +79,11 @@
 10. Causal reasoning from meta-reinforcement learning. Dasgupta et al. arXiv:1901.08162
 11. A meta-transfer objective for learning to disentangle causal mechanisms. Bengio, Yoshua et al. arXiv:1901.10912
 12. Visual causal feature learning. Chalupka et al. arXiv:1412.2309
+13. Fast Real-time Counterfactual Explanations. Zhao, Yunxia et al. ICML 2020
+14. Scientific Discovery by Generating Counterfactuals using Image Translation. Narayanaswamy et al. MICCAI 2020
+15. Structural Agnostic Modeling: Adversarial Learning of Causal Graphs. Kalainathan et al. arXiv:1803.04929
+16. Causal Discovery in Physical Systems from Videos. Li, Yunzhu et al. arXiv:2007.00631 [[code][32]]
+17. Causality Learning: A New Perspective for Interpretable Machine Learning. Xu, Guandong et al. arXiv:2006.16789
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
@@ -119,3 +125,4 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [29]:https://github.com/StanfordVL/causal_induction
 [30]:https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch
 [31]:https://github.com/mkocaoglu/CausalGAN
+[32]:https://yunzhuli.github.io/V-CDN/
