@@ -26,7 +26,7 @@
 16. A Novel Neural Network Structure Constructed according to Logical Relations. Wang, Gang. arXiv:1903.02683
 17. Augmenting Neural Networks with First-order Logic. Li, Tao & Srikumar, Vivek. ACL 2019 [[code]][20]
 18. A Logic-Driven Framework for Consistency of Neural Models. Li, Tao rt al. arXiv:1909.00126 [[code]][12]
-19. Semantic Interpretation of Deep Neural Networks Based on Continuous Logic. Dombi, József et al. ArXiv:1910.02486
+19. Semantic Interpretation of Deep Neural Networks Based on Continuous Logic. Dombi, József et al. arXiv:1910.02486
 20. Inductive Logic Programming via Differentiable Deep Neural Logic Networks. Payani, Ali & Fekri, Faramarz. ICLR 2020 [[code]][11]
 21. Transparent Classification with Multilayer Logical Perceptrons and Random Binarization. Wei Zhang et al. AAAI 2020
 22. iNALU: Improved Neural Arithmetic Logic Unit. Schlör, Daniel et al. arXiv:2003.07629
