@@ -38,6 +38,7 @@
 28. Conversational Neuro-Symbolic Commonsense Reasoning. arXiv:2006.10022
 29. Logical Neural Networks. Riegel, Ryan et al. NeurIPS 2020
 30. Integrating Logical Rules Into Neural Multi-Hop Reasoning for Drug Repurposing. Liu, Yushan et al. ICML 2020
+31. Neural Logic Reasoning. Shi, Shaoyun et al. CIKM 2020
 
 ## Graph Neural Logic
 
@@ -45,6 +46,7 @@
 2. Probabilistic Logic Neural Networks for Reasoning. Qu, Meng & Tang, Jian. arXiv:1906.08495
 3. The Logical Expressiveness of Graph Neural Networks. ICLR 2020
 4. Efficient Probabilistic Logic Reasoning with Graph Neural Networks. Zhang, Yuyu et al. arXiv:2001.11850v2
+5. _ICML20 workshop_: [pdf](./ICML20_workshop.pdf) , [homepage][34]
 
 
 ## Logic Programming
@@ -56,14 +58,22 @@
 
 ## Causality Books
 
-1. (book) The Book of Why. Judea Pearl, 2018. [[onedrive]][21]
-2. (book) The Book of Why(中文版). Judea Pearl & Dana Mackenzie, 江⽣ & 于华 译, 2018. [[onedrive]][22]
-3. (book) Causality: Models, Reasoning, and Inference(2nd Edition). Judea Pearl, 2009. [[onedrive]][23]
-4. (book) Causal inference in statistics: An overview. Judea Pearl, on Statistics Surveys, 2009. [[onedrive]][24]
-5. (book) 因果推断简介. 丁鹏(北京大学). [[onedrive]][25]
-6. (book) Causal Inference - What If. Miguel A. Hernán & James M. Robins, 2019. [[onedrive]][26]
-7. (book) Elements of Causal Inference: Foundations and Learning Algorithms. MIT, 2020. [[onedrive]][27]
-8. Interpretation and identification of causal mediation. Judea Pearl, 2014.
+1. Interpretation and identification of causal mediation. Judea Pearl, 2014.
+2. (book) The Book of Why. Judea Pearl, 2018. [[onedrive]][21]
+3. (book) The Book of Why(中文版). Judea Pearl & Dana Mackenzie, 江⽣ & 于华 译, 2018. [[onedrive]][22]
+4. (book) Causality: Models, Reasoning, and Inference(2nd Edition). Judea Pearl, 2009. [[onedrive]][23]
+5. (book) Causal inference in statistics: An overview. Judea Pearl, on Statistics Surveys, 2009. [[onedrive]][24]
+6. (book) 因果推断简介. 丁鹏(北京大学). [[onedrive]][25]
+7. (book) Causal Inference - What If. Miguel A. Hernán & James M. Robins, 2019. [[onedrive]][26]
+8. (book) Elements of Causal Inference: Foundations and Learning Algorithms. MIT, 2020. [[onedrive]][27]
+9. (book) Introduction to Causal Inference: from a Machine Learning Perspective. Brady Neal, Course Lecture Notes, 2020. [[onedrive]][35]
+
+
+## Causality PPT
+
+1. KDD 2020 Tutorial - Causal Inference and Stable Learning. [[ppt]][36]
+2. MLSS 2020 - Causility. [[onedrive]][37]
+3. MLSS 2020 - Causal Inference II. [[onedrive]][38]
 
 ## Causality papers
 
@@ -89,6 +99,33 @@
 20. Distinguishing Cause from Effect Using Quantiles: Bivariate Quantile Causal Discovery. Tagasovska et al. ICML 2020
 21. Efficient Intervention Design for Causal Discovery with Latents. Addanki et al. ICML 2020
 22. Fast Real-time Counterfactual Explanations. Yunxia Zhao. ICML 2020
+23. Latent Instrumental Variables as Priors in Causal Inference based on Independence of Cause and Mechanism. Sokolovska et al. arXiv:2007.08812
+24. AiR: Attention with Reasoning Capability. Chen, Shi et al. ECCV 2020 [[code]][33]
+25. Efficient Identification in Linear Structural Causal Models with Instrumental Cutsets. Kumor, Daniel et al. ICML 2020
+26. Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models. Saito, Yuta & Yasui, Shota. ICML 2020
+26. DeepMatch: Balancing Deep Covariate Representations for Causal Inference Using Adversarial Training. Kallus, Nathan. ICML 2020
+27. Causal Inference using Gaussian Processes with Structured Latent Confounders. Witty, Sam et al. ICML 2020
+28. Causal Effect Estimation and Optimal Dose Suggestions in Mobile Health. Zhu, Liangyu et al. ICML 2020
+29. Alleviating Privacy Attacks via Causal Learning. Tople, Shruti et al. ICML 2020
+30. SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning. Fu, Tsu-Jui et al. EMNLP 2020
+31. Direct and Indirect Effects. Muller, Dominique & Judd, Charles M. Wiley StatsRef: Statistics Reference Online, 2003
+32. Causal Diagrams for Empirical Research. Pearl, Judea. American Statistician, 2011
+33. Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect.  Tang, Kaihua et al. NeurIPS 2020 [[code]][39]
+34. Interventional Few-Shot Learning. Yue, Zhongqi et al. NeurIPS 2020 [[code]][40]
+35. Causal Intervention for Weakly-Supervised Semantic Segmentation. Zhang, Dong et al. NeurIPS 2020 [[code]][41]
+36. Deep Structural Causal Models for Tractable Counterfactual Inference. Pawlowski, Nick et al. NeurIPS 2020 [[code]][42]
+37. Causality for Machine Learning. Schölkopf, Bernhard. ICLR 2020
+38. Explaining the Efficacy of Counterfactually Augmented Data. iclr 2021
+39. Accounting for Unobserved Causalonfounding in Domain Generalization. iclr 2021
+40. Continual Lifelong Causal Effect Inference with Real-world Evidence. iclr 2021
+41. Counterfactual Generative Networks. iclr 2021
+42. Amortized Causal Discovery Learning to Infer Ccausal Graphs from Time Series Data. iclr 2021
+43. Selecting Treatment Effects Models for Domain Adaptation using Causal Knowledge. iclr 2021
+44. Disentangled Generative Causal Representation Learning. iclr 2021
+45. Multi-task Causal Learning with Gaussian Processes. NeurIPS 2020
+46. Causal Imitation Learning with Unobserved Confounders. NeurIPS 2020
+47. Differentiable Causal Discovery from Interventional Data. NeurIPS 2020
+48. A Causal View on Robustness of Neural Networks. NeurIPS 2020
 
 
 ---
@@ -96,7 +133,7 @@ Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com)
 
 Source: <https://github.com/FLHonker/Awesome-Neural-Logic>
 
-Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
+Contact: Yuang Liu(<frankliu624@outlook.com>), [ECNU](https://www.ecnu.edu.cn/).
 
 
 
@@ -131,4 +168,14 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [29]:https://github.com/StanfordVL/causal_induction
 [30]:https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch
 [31]:https://github.com/mkocaoglu/CausalGAN
-[32]:https://yunzhuli.github.io/V-CDN/
+[32]:https://yunzhuli.github.io/V-CDN
+[33]:https://github.com/szzexpoi/AiR
+[34]:https://logicalreasoninggnn.github.io/
+[35]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EdYZWPDSiXlAhAd8SG1H1c8BOCr-cG-ax2_dacnQ3iMgrg?e=LaY4cB
+[36]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EWQ79wSjhOlGuLC6OMrNm-cBBj0SZC23KXuVJP5FLGMykQ?e=uKbb3l
+[37]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EZADZ95fqPBEn7RQZIC2GK8B4mmGJpIVdZv7F2FEFZ7Isw?e=jgFzgx
+[38]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EUDgEfij6LlGrlMwLP8tF9gBoHdoEVd1kynOyTYzvy3jnQ?e=2QgCQp
+[39]:https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch
+[40]:https://github.com/yue-zhongqi/ifsl
+[41]:https://github.com/ZHANGDONG-NJUST/CONTA
+[42]:https://github.com/biomedia-mira/deepscm
