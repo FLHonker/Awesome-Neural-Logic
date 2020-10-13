@@ -122,10 +122,12 @@
 42. Amortized Causal Discovery Learning to Infer Ccausal Graphs from Time Series Data. iclr 2021
 43. Selecting Treatment Effects Models for Domain Adaptation using Causal Knowledge. iclr 2021
 44. Disentangled Generative Causal Representation Learning. iclr 2021
-45. Multi-task Causal Learning with Gaussian Processes. NeurIPS 2020
-46. Causal Imitation Learning with Unobserved Confounders. NeurIPS 2020
-47. Differentiable Causal Discovery from Interventional Data. NeurIPS 2020
-48. A Causal View on Robustness of Neural Networks. NeurIPS 2020
+45. Multi-task Causal Learning with Gaussian Processes. Aglietti et al. NeurIPS 2020
+46. Causal Imitation Learning with Unobserved Confounders. Zhang, Junzhe et al. NeurIPS 2020
+47. Differentiable Causal Discovery from Interventional Data. Brouillard et al. NeurIPS 2020
+48. A Causal View on Robustness of Neural Networks. Zhang, Cheng et al. NeurIPS 2020
+49. Group invariance principles for causal generative models. Besserve et al. AISTATS 2018
+50. Causal Regularization. Bahadori et al. arXiv:1702.02604
 
 
 ---
